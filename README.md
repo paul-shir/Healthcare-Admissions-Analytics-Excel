@@ -154,7 +154,19 @@ The dashboard also provides analysis of:
 ![Healthcare Admissions Dashboard](Healthcare_Admissions_Dashboard.png)
 
 ---
+## Tools Used
 
+`Microsoft Excel` `Power Query` `PivotTables` `PivotCharts` `VBA` `Slicers` `Healthcare Analytics`
+
+---
+
+## Business Value
+
+This project demonstrates how healthcare admission records can be transformed into an interactive decision-support dashboard.
+
+The dashboard helps users quickly identify admission patterns, high-demand hospitals, common diagnoses, patient demographics, regional differences, and length-of-stay trends.
+
+These insights can support hospital planning, resource allocation, patient-flow management, and operational decision-making.
 ## Repository Structure
 
 ```text
@@ -163,3 +175,9 @@ Healthcare-Admissions-Analytics-Excel/
 ├── README.md
 ├── Healthcare_Admissions_Dataset_Analytics.xlsm
 └── Healthcare_Admissions_Dashboard.png
+
+Author
+
+Paul Shir
+
+Data Analyst | Business Intelligence Developer | Python | SQL | Power BI | Excel | Machine Learning
